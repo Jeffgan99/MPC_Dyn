@@ -321,6 +321,7 @@ class FTOCP(object):
         Dr = 0.8 * m * 9.81 / 2.0
         Cr = 1.25
         Br = 1.0
+        # 1st Version that has been commented.
         # deltaT = 0.001
         # x_next = np.zeros(x.shape[0])
         #
