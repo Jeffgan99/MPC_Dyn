@@ -82,10 +82,10 @@ printLevel = 1
 # Fx = np.vstack((np.eye(n), -np.eye(n)))
 # bx = np.array([15,15,15,15]*(2))
 Fx = np.array([[0., 0., 0., 0., 0., 1.],
-			   [0., 0., 0., 0., 0., -1.]])
+	       [0., 0., 0., 0., 0., -1.]])
 #
 bx = np.array([[2.],
-			   [2.]])
+	       [2.]])
 #
 # Fu = np.kron(np.eye(2), np.array([1, -1])).T
 # bu = np.array([[0.5],
