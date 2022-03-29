@@ -1,1 +1,1 @@
-Results with different parameters
+Results with original parameters
