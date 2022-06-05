@@ -1,1 +1,0 @@
-Results with original parameters
